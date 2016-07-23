@@ -1,0 +1,3 @@
+Options -Indexes
+
+RewriteRule .* index.php [L]

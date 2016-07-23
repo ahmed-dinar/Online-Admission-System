@@ -1,0 +1,55 @@
+body {
+    padding: 0px 0px 0px 0px !important;
+    margin:0px !important;
+
+    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 13px !important;
+    color: #333 !important;
+    background: #F5F8F9 !important;
+}
+
+.top-navbar{
+    min-height: 112px !important;
+    margin-top: -4px !important;
+    margin-bottom: 0px !important;
+}
+
+.text-bold{
+    font-weight: bold !important;
+}
+
+.text-underline{
+    text-decoration: underline;
+}
+
+.btn{
+    box-shadow: none !important;
+    border-radius: 2px !important;
+    border: 0px !important;
+}
+
+.navbar {
+    position: static !important;
+}
+.navbar .nav > li {
+    z-index: 1001 !important;
+}
+
+
+.apply-table > tbody > tr > th{
+    width: 200px;
+}
+
+.apply-table > tbody > tr > td > select{
+    padding: 3px 4px;
+}
+
+.apply-heading{
+    background: #1c4370;
+    color: #fff;
+    padding: 3px 5px !important;
+}
+
+.apply-input{
+    min-width: 300px !important;
+}
